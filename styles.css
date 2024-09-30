@@ -57,3 +57,14 @@ button:hover {
 #section4 {
     background-color: #f0f0f0; /* Keep Section 4 as is without the border */
 }
+#section2 {
+    text-align: center;
+}
+#image {
+    border-radius: 50%; /* Makes the image circular */
+}
+#name {
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+}
